@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="3" lineNum="28" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="3" lineNum="30" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="3" lineNum="31" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="3" lineNum="32" pc="268435491" symbol="initialize"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="38" pc="268435545" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="39" pc="268435549" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="42" pc="268435562" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="56" pc="268435573" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="57" pc="268435590" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="58" pc="268435590" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="59" pc="268435601" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="60" pc="268435691" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="62" pc="268435701" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="63" pc="268435802" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="64" pc="268435834" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="67" pc="268435838" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="70" pc="268435851" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="74" pc="268435862" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="75" pc="268435862" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="76" pc="268435895" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="77" pc="268435898" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="78" pc="268435920" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="80" pc="268435942" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="81" pc="268435953" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="82" pc="268435963" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="85" pc="268435976" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="86" pc="268435983" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="88" pc="268436027" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="91" pc="268436094" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="4" lineNum="93" pc="268436104" symbol="showField"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="5" lineNum="97" pc="268436118" symbol="onLayout"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="5" lineNum="98" pc="268436122" symbol="onLayout"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="5" lineNum="99" pc="268436134" symbol="onLayout"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="6" lineNum="102" pc="268436149" symbol="setDeviceSettingsDependentVariables"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="6" lineNum="105" pc="268436153" symbol="setDeviceSettingsDependentVariables"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="7" lineNum="109" pc="268436183" symbol="compute"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="7" lineNum="115" pc="268436187" symbol="compute"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="7" lineNum="117" pc="268436224" symbol="compute"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="7" lineNum="121" pc="268436252" symbol="compute"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="7" lineNum="122" pc="268436272" symbol="compute"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="7" lineNum="123" pc="268436292" symbol="compute"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="7" lineNum="124" pc="268436318" symbol="compute"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="7" lineNum="127" pc="268436338" symbol="compute"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="7" lineNum="130" pc="268436351" symbol="compute"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="7" lineNum="131" pc="268436362" symbol="compute"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="8" lineNum="136" pc="268436385" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="8" lineNum="137" pc="268436389" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="8" lineNum="138" pc="268436402" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="8" lineNum="139" pc="268436415" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="8" lineNum="141" pc="268436428" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="8" lineNum="142" pc="268436456" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="8" lineNum="144" pc="268436482" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="8" lineNum="147" pc="268436553" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="8" lineNum="148" pc="268436586" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="8" lineNum="158" pc="268436611" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="8" lineNum="161" pc="268436630" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="8" lineNum="164" pc="268436689" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="8" lineNum="165" pc="268436722" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="8" lineNum="167" pc="268436747" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="8" lineNum="168" pc="268436766" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="8" lineNum="171" pc="268436825" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="9" lineNum="177" pc="268436882" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="9" lineNum="178" pc="268436886" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="9" lineNum="180" pc="268436898" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="10" lineNum="185" pc="268436912" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="10" lineNum="186" pc="268436916" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="10" lineNum="187" pc="268436926" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="11" lineNum="191" pc="268436940" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="12" lineNum="195" pc="268436945" symbol="isSingleFieldLayout"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="12" lineNum="196" pc="268436949" symbol="isSingleFieldLayout"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="13" lineNum="234" pc="268437004" symbol="getActivityMonitorInfo"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="13" lineNum="235" pc="268437008" symbol="getActivityMonitorInfo"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="14" lineNum="238" pc="268437033" symbol="getApplicationProperties"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="14" lineNum="239" pc="268437037" symbol="getApplicationProperties"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="15" lineNum="242" pc="268437056" symbol="computeHour"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="15" lineNum="243" pc="268437060" symbol="computeHour"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="15" lineNum="244" pc="268437071" symbol="computeHour"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="15" lineNum="246" pc="268437083" symbol="computeHour"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="15" lineNum="247" pc="268437094" symbol="computeHour"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselView.mc" id="15" lineNum="249" pc="268437106" symbol="computeHour"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselApp.mc" id="17" lineNum="5" pc="268437110" symbol="initialize"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselApp.mc" id="17" lineNum="6" pc="268437114" symbol="initialize"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselApp.mc" id="18" lineNum="10" pc="268437133" symbol="onStart"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselApp.mc" id="19" lineNum="14" pc="268437138" symbol="onStop"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselApp.mc" id="20" lineNum="18" pc="268437143" symbol="getInitialView"/>
+<entry filename="C:\\Users\\jean-phi\\eclipse-workspace\\Heure et Duree\\source\\StepsCarouselApp.mc" id="20" lineNum="19" pc="268437147" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="28" symbol="HoursFont140"/>
+<entry id="24" method="true" symbol="computeHour"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry field="true" id="29" symbol="HoursFont100"/>
+<entry id="21" method="true" symbol="isSingleFieldLayout"/>
+<entry field="true" id="30" symbol="carouselSecondsTitle"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389748" method="true" symbol="onTimerStop"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="8388645" module="true" symbol="Time"/>
+<entry field="true" id="17" symbol="&lt;globals_StepsCarouselView_&lt;&gt;mHoursFont140&gt;"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="9" object="true" symbol="StepsCarouselView"/>
+<entry field="true" id="8389401" symbol="is24Hour"/>
+<entry id="19" method="true" symbol="showField"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389752" method="true" symbol="onTimerReset"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="31" symbol="AppName"/>
+<entry field="true" id="18" symbol="&lt;globals_StepsCarouselView_&lt;&gt;mHoursFont100&gt;"/>
+<entry id="23" method="true" symbol="getApplicationProperties"/>
+<entry id="22" method="true" symbol="getActivityMonitorInfo"/>
+<entry field="true" id="27" symbol="LauncherIcon"/>
+<entry field="true" id="8388921" object="true" symbol="Duration"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="11" symbol="timerRunning"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="8388732" symbol="elapsedTime"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389747" method="true" symbol="onTimerStart"/>
+<entry field="true" id="8388947" method="true" symbol="value"/>
+<entry field="true" id="15" symbol="carouselSeconds"/>
+<entry field="true" id="16" symbol="ZERO_TIME"/>
+<entry id="10" object="true" symbol="StepsCarouselApp"/>
+<entry field="true" id="13" symbol="textCenter"/>
+<entry field="true" id="12" symbol="ticker"/>
+<entry id="26" module="true" symbol="Layouts"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="20" method="true" symbol="setDeviceSettingsDependentVariables"/>
+<entry id="25" module="true" symbol="Menus"/>
+<entry field="true" id="14" symbol="fields"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435544" name="app" stackId="1" startPc="268435460"/>
+<entry endPc="268435848" name="ampm" stackId="5" startPc="268435573"/>
+<entry endPc="268435848" name="clockTime" stackId="3" startPc="268435573"/>
+<entry endPc="268435848" name="time" stackId="4" startPc="268435573"/>
+<entry endPc="268436091" name="hours" stackId="7" startPc="268435895"/>
+<entry endPc="268436091" name="minutes" stackId="8" startPc="268435895"/>
+<entry endPc="268436091" name="seconds" stackId="9" startPc="268435895"/>
+<entry endPc="268436114" name="duration" stackId="6" startPc="268435862"/>
+<entry endPc="268436117" name="activityMonitorInfo" stackId="2" startPc="268435549"/>
+<entry endPc="268436118" name="fieldNr" stackId="1" startPc="268435545"/>
+<entry endPc="268436149" name="dc" stackId="1" startPc="268436118"/>
+<entry endPc="268436384" name="timerSlot" stackId="2" startPc="268436187"/>
+<entry endPc="268436385" name="info" stackId="1" startPc="268436183"/>
+<entry endPc="268436881" name="height" stackId="3" startPc="268436389"/>
+<entry endPc="268436881" name="textheight" stackId="6" startPc="268436389"/>
+<entry endPc="268436881" name="backgroundColor" stackId="4" startPc="268436389"/>
+<entry endPc="268436881" name="textwidth" stackId="5" startPc="268436389"/>
+<entry endPc="268436881" name="width" stackId="2" startPc="268436389"/>
+<entry endPc="268436882" name="dc" stackId="1" startPc="268436385"/>
+<entry endPc="268437110" name="hour" stackId="1" startPc="268437056"/>
+<entry endPc="268437138" name="state" stackId="1" startPc="268437133"/>
+<entry endPc="268437143" name="state" stackId="1" startPc="268437138"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="StepsCarouselView">
+<documentation><![CDATA[<div class="description"> Initialisations<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="showField" parent="StepsCarouselView">
+<param id="fieldNr"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="StepsCarouselView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setDeviceSettingsDependentVariables" parent="StepsCarouselView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="compute" parent="StepsCarouselView">
+<param id="info"/>
+<documentation><![CDATA[<div class="description"> Calculations we need to do every second even when the data field is not visible<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="StepsCarouselView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Display the value you computed here. This will be called once a second when the data field is visible.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerStart" parent="StepsCarouselView">
+<documentation><![CDATA[<div class="description"> Timer transitions from stopped to running state<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerStop" parent="StepsCarouselView">
+<documentation><![CDATA[<div class="description"> Timer transitions from running to stopped state<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerReset" parent="StepsCarouselView">
+<documentation><![CDATA[<div class="description"> Activity is ended<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="isSingleFieldLayout" parent="StepsCarouselView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getActivityMonitorInfo" parent="StepsCarouselView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getApplicationProperties" parent="StepsCarouselView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="computeHour" parent="StepsCarouselView">
+<param id="hour"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="StepsCarouselApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="StepsCarouselApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="StepsCarouselApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="StepsCarouselApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="StepsCarouselView" type="class"/>
+<dataEntry offset="397" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="476" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="515" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="546" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="593" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="624" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="655" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="718" parentId="globals" symbolId="StepsCarouselApp" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

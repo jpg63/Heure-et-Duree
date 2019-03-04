@@ -1,0 +1,6 @@
+<strings>
+    <string id="AppName">Time and Duration</string>
+    <string id="Time">Time</string>
+    <string id="Duration">Duration</string>
+    <string id="carouselSecondsTitle">Show next item in every X seconds</string>
+</strings>

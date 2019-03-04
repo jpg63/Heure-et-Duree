@@ -1,0 +1,6 @@
+<strings>
+    <string id="AppName">Heure et Durée</string>
+    <string id="Time">Heure</string>
+    <string id="Duration">Duree</string>
+    <string id="carouselSecondsTitle">Afficher l'élément suivant toutes les X secondes</string>
+</strings>

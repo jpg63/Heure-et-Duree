@@ -1,0 +1,6 @@
+<strings>
+    <string id="AppName">Steps Carousel</string>
+    <string id="Time">Zeit</string>
+    <string id="Duration">Dauer</string>
+    <string id="carouselSecondsTitle">Toon volgende carousel item elke X seconden</string>
+</strings>
